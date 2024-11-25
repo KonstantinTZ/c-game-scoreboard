@@ -1,0 +1,8 @@
+.add-character-body img{
+    transition: transform .5s ease-in-out;
+}
+
+.add-character-body:hover img{
+    transform: rotate(180deg);
+}
+
